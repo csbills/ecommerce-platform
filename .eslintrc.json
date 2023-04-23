@@ -1,0 +1,8 @@
+{
+  "extends": "@rocketseat/eslint-config/react",
+  "rules": {
+    "array-callback-return": "warn",
+    "no-console": "warn",
+    "camelcase": "off"
+  }
+}
